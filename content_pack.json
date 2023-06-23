@@ -1,6 +1,6 @@
 {
     "id": "e7e0dcb4-b629-40b9-802e-7cb223b48343",
-    "rev": 1,
+    "rev": 2,
     "v": "1",
     "name": "pihole",
     "summary": "Provides all the content needed to utilize pihole with graylog",
